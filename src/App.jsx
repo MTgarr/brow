@@ -31,7 +31,7 @@ function App() {
 
       <header className="header">
         <a className="brand" href="#home">
-          <img className="brand-logo" src="/images/logo.png" alt="Browsaikel" />
+          <img className="brand-logo" src="/images/foto4.jpg" alt="Browsaikel" />
           <span className="brand-name">
             BROWSAIKEL
             <small> GARAGE APPAREL</small>
@@ -80,7 +80,7 @@ function App() {
           <div className="hero-visual">
             <video
               className="hero-video"
-              src="/videos/hero-motor.mp4"
+              src="/videos/vid1.mp4"
               autoPlay
               muted
               loop
@@ -212,7 +212,7 @@ function App() {
 
       <footer className="footer">
         <a className="brand" href="#home">
-          <img className="brand-logo" src="/images/logo.png" alt="" />
+          <img className="brand-logo" src="/images/foto4.jpg" alt="" />
           <span className="brand-name">BROWSAIKEL<small> GARAGE APPAREL</small></span>
         </a>
         <span>Made for the ride. Worn every day.</span>
